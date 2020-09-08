@@ -1,0 +1,17 @@
+stud_name,course_name,teacher,etcs,classroom,grade,img_url
+Oscar,English,Harry Potter,5,classroom101,2,img_url
+Oscar,History,Harry Potter,5,classroom101,10,img_url
+Oscar,Engineering,Harry Potter,20,classroom101,7,img_url
+Oscar,Math,Harry Potter,10,classroom101,12,img_url
+Boris,Engineering,Harry Potter,10,classroom101,2,img_url
+Boris,English,Harry Potter,20,classroom101,12,img_url
+Boris,History,Harry Potter,5,classroom101,2,img_url
+Boris,Math,Harry Potter,10,classroom101,4,img_url
+John,Math,Harry Potter,5,classroom101,10,img_url
+John,English,Harry Potter,5,classroom101,2,img_url
+John,Engineering,Harry Potter,10,classroom101,2,img_url
+John,History,Harry Potter,10,classroom101,10,img_url
+Ivan,English,Harry Potter,20,classroom101,12,img_url
+Ivan,Engineering,Harry Potter,20,classroom101,2,img_url
+Ivan,Math,Harry Potter,5,classroom101,12,img_url
+Ivan,History,Harry Potter,10,classroom101,12,img_url
