@@ -16,3 +16,13 @@ Desværre ikke lavet som ipynb, men kig i folderen week36
 
 ## week40
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexanderSarson/sem4_python/master?filepath=week40_iterators_requests_concurrency%2Fhandin%2Fex2.ipynb)
+
+## week43
+Desværre ikke lavet som ipynb, men kig i folderen week43
+
+## week45
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexanderSarson/sem4_python/master?filepath=week45/exercise.ipynb)
+
+
+## week46
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexanderSarson/sem4_python/master?filepath=week46/exercise.ipynb)
