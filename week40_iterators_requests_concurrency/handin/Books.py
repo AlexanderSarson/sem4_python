@@ -53,7 +53,7 @@ class Books():
     def avg_vowels(text):
         vowels = "AaEeIiOoUu"
         count = len([char for char in text if char in vowels])
-        return count
+        return count / len(text.split(' '))
 
     def _read_file_to_string(filename):
         with open(filename) as file_object:
@@ -62,7 +62,7 @@ class Books():
 
     def _read_multi_files(filenames):
         workers = 4
-        args = tuple(filenames)
+        args = filenames
         with ThreadPoolExecutor(workers) as ex:
             res = ex.map(Books._read_file_to_string, args)
         return list(res)
@@ -94,4 +94,4 @@ class Books():
 #     hard_read = Books.hardest_read()
 #     print(hard_read)
 
-#     ##book.download(url, "test.txt")
+    ##book.download(url, "test.txt")
